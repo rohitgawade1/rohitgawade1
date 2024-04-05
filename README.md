@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on react.
-- 🌱 I’m currently learning nextjs.
 - 💬 Ask me about frontend development.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/rohitgawade/">linkedin</a>
 - ⚡ Fun fact: I love swimming, cycling and coding.
